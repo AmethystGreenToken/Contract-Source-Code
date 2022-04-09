@@ -15,7 +15,7 @@
                                      ( )_| |                                                                                   
                                     `\___/'   
 
-Deflationary, cross-chain BEP20-BSC Token, 2% Redistribution, 3% Auto Locked On Liquidity Pool, 1% direct to BURNS - $AMT Team.
+Deflationary, cross-chain BEP20-BSC Token, 1% Redistribution, 2% Auto Locked On Liquidity Pool - $AMT Team.
 
 */
 
